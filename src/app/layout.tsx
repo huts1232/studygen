@@ -3,7 +3,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "StudyGen — Transform content into study tools",
-  description: "Upload PDFs and automatically generate flashcards, quizzes, and study plans.",
+  description: "Upload PDFs and automatically generate flashcards, quizzes, and study plans with AI.",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
